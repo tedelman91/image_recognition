@@ -1,2 +1,2 @@
 # image_recognition
-depp learning image recognition notebook tutorial 
+deep learning image recognition notebook tutorial 
